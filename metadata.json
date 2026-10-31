@@ -1,0 +1,6 @@
+{
+  "name": "Human Kin",
+  "description": "Arborele genealogic al omenirii de la Adam și până astăzi, cu hartă istorică interactivă, narațiune biblică cronologică și surse documentare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
